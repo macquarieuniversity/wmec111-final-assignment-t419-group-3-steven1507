@@ -5,7 +5,7 @@ CustomRenderTexture:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: New Custom Render Texture
+  m_Name: Poisedon Render
   m_ImageContentsHash:
     serializedVersion: 2
     Hash: 00000000000000000000000000000000
@@ -32,8 +32,8 @@ CustomRenderTexture:
   m_Dimension: 2
   m_VolumeDepth: 1
   m_Material: {fileID: 0}
-  m_InitSource: 0
-  m_InitMaterial: {fileID: 0}
+  m_InitSource: 1
+  m_InitMaterial: {fileID: 2100000, guid: a016b357c733c4ef197a8f57d7701e27, type: 2}
   m_InitColor: {r: 1, g: 1, b: 1, a: 1}
   m_InitTexture: {fileID: 0}
   m_UpdateMode: 0
